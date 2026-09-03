@@ -1,21 +1,22 @@
-**COIT11223 ICT Ethics and Governance in Society**
+# COIT11223 ICT Ethics and Governance in Society
 
-**E-Portfolio 3 – Intellectual Property**
+# E-Portfolio 3 – Intellectual Property
 
+<img width="1871" height="957" alt="Intellectual Property Workshop" src="https://github.com/user-attachments/assets/6e573b7c-e33f-420b-85bd-d4a820e95a0c" />
 
-<img width="1871" height="957" alt="{03587C6C-3A77-47C7-8CA8-774E57FA17B1}" src="https://github.com/user-attachments/assets/6e573b7c-e33f-420b-85bd-d4a820e95a0c" />
+---
 
+# Artefact 1: Understanding Intellectual Property
 
-**Artefact 1: Understanding Intellectual Property**
-Summary of the Artefact
+## Summary of the Artefact
 
 The first artefact is based on the Week 7 workshop material about Intellectual Property (IP). IP protects different types of creations and can include patents, trademarks, designs, copyright and trade secrets. The workshop explained that giving creators rights can encourage creativity and innovation, but society also benefits when inventions and creative works eventually become available to the public. Copyright in Australia is automatic and protects the way an original work is expressed rather than the information itself.
 
- Justification on Why I Chose the Artefact
+## Justification on Why I Chose the Artefact
 
 I chose this artefact because Intellectual Property is relevant to ICT students and future technology work. Before the workshop, I mainly thought of copyright as protecting music and videos. I now understand that it can also protect databases, computer programs, photographs and other original works. This helped me see why ICT professionals need to understand IP when creating, sharing or using digital content.
 
-
+---
 
 # Artefact 2: The Monkey Selfie Copyright Dispute
 
@@ -27,9 +28,11 @@ The second artefact is the monkey selfie copyright dispute. In 2011, photographe
 
 I chose this case because it was one of the most unusual topics in the workshop and made me think about what it means to be an author. I found it interesting that simply taking a photograph can create a difficult legal question when a non-human animal is involved. It also connects to current questions about AI, because AI can generate creative-looking content without being a human creator.
 
+---
 
 # Artefact 3: Scholarly Article
-<img width="1035" height="1087" alt="image" src="https://github.com/user-attachments/assets/07005794-9ca2-43ab-ab99-6de5c11b5b0c" />
+
+<img width="1035" height="1087" alt="LicenseNet Scholarly Article" src="https://github.com/user-attachments/assets/07005794-9ca2-43ab-ab99-6de5c11b5b0c" />
 
 ## Article
 
@@ -49,10 +52,11 @@ I chose this article because it is closely related to the **Intellectual Propert
 
 Li, P., Huang, J. & Zhang, S. 2025, ‘LicenseNet: Proactively safeguarding intellectual property of AI models through model license’, *Journal of Systems Architecture*, vol. 159, article 103330, viewed 3 September 2026, doi:10.1016/j.sysarc.2025.103330.
 
-
+---
 
 # Artefact 4: Workshop Personal Reflection
-<img width="1035" height="1380" alt="image" src="https://github.com/user-attachments/assets/95fdf623-3b8a-4fce-95a0-25af06b52435" />
+
+<img width="1035" height="1380" alt="Week 7 Workshop Personal Reflection" src="https://github.com/user-attachments/assets/95fdf623-3b8a-4fce-95a0-25af06b52435" />
 
 ## Workshop Details
 
@@ -75,13 +79,13 @@ I also learnt about fair dealing in Australia. It can allow copyrighted material
 
 Another topic I found useful was Digital Rights Management (DRM). DRM uses technologies such as encryption, passwords, paywalls, product keys and activation limits to control access to digital content. I understand why content owners use these protections, but I also understand the concerns about restrictions on legitimate use. Overall, the workshop showed me that IP involves finding a balance between protecting creators and providing benefits to society.
 
-
+---
 
 # Conclusion
 
 This workshop improved my understanding of Intellectual Property and its importance in ICT. I learnt that copyright, patents, trademarks and trade secrets protect different types of intellectual property. The monkey selfie case and the discussion about AI showed me that new technology can create difficult questions for existing copyright principles. My main takeaway is that ICT professionals should respect intellectual property while also considering ethical issues and the wider benefits to society.
 
-
+---
 
 # References
 
