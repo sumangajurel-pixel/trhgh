@@ -11,7 +11,8 @@ Intellectual Property (IP) is important because it provides protection for the w
 
 There needs to be a balance between protecting creators and allowing information and inventions to eventually become available to the public. The workshop explains that giving creators rights can stimulate creativity, but society can also benefit when inventions and creative works enter the public domain.
 
-## Copyright
+## Copyright<img width="1224" height="739" alt="{3B9F2C77-88DD-4715-9DA5-ECED18C540FE}" src="https://github.com/user-attachments/assets/07ea8a85-3f00-408d-98b7-5de883d0499a" />
+
 
 Copyright gives creators exclusive rights over original works. In Australia, copyright protection is automatic and does not require registration. It protects the way information is expressed rather than the information or idea itself.
 
