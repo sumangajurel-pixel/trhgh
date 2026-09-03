@@ -1,13 +1,12 @@
-# COIT11223 ICT Ethics and Governance in Society
+**COIT11223 ICT Ethics and Governance in Society**
 
+**E-Portfolio 3 – Intellectual Property**
 
-## E-Portfolio 3 – Intellectual Property
 
 <img width="1871" height="957" alt="{03587C6C-3A77-47C7-8CA8-774E57FA17B1}" src="https://github.com/user-attachments/assets/6e573b7c-e33f-420b-85bd-d4a820e95a0c" />
 
 
-# Artefact 1: Understanding Intellectual Property
-
+**Artefact 1: Understanding Intellectual Property**
 Summary of the Artefact
 
 The first artefact is based on the Week 7 workshop material about Intellectual Property (IP). IP protects different types of creations and can include patents, trademarks, designs, copyright and trade secrets. The workshop explained that giving creators rights can encourage creativity and innovation, but society also benefits when inventions and creative works eventually become available to the public. Copyright in Australia is automatic and protects the way an original work is expressed rather than the information itself.
