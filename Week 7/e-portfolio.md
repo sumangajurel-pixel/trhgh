@@ -2,6 +2,11 @@
 
 ## Introduction
 
+<img width="1522" height="827" alt="image" src="https://github.com/user-attachments/assets/14ebab8b-b0b7-440d-bdb1-67e75788c9bb" />
+<img width="1445" height="780" alt="image" src="https://github.com/user-attachments/assets/4c0a4d5d-0ee8-4b81-86ce-83d1a6866709" />
+
+<img width="1445" height="780" alt="image" src="https://github.com/user-attachments/assets/d9a6988e-9b06-44f2-a9b4-68f64d3a12e6" />
+
 Intellectual Property (IP) is important because it provides protection for the work and ideas created by individuals and organisations. Intellectual property can include copyright, patents, trademarks, designs and trade secrets. The main purpose of IP protection is to encourage people to create and develop new ideas while also allowing society to benefit from those creations.
 
 There needs to be a balance between protecting creators and allowing information and inventions to eventually become available to the public. The workshop explains that giving creators rights can stimulate creativity, but society can also benefit when inventions and creative works enter the public domain.
