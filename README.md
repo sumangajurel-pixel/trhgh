@@ -28,6 +28,7 @@ I chose this case because it was one of the most unusual topics in the workshop 
 
 
 # Artefact 3: Scholarly Article
+<img width="1035" height="1087" alt="image" src="https://github.com/user-attachments/assets/07005794-9ca2-43ab-ab99-6de5c11b5b0c" />
 
 ## Article
 
@@ -50,6 +51,7 @@ Li, P., Huang, J. & Zhang, S. 2025, ‘LicenseNet: Proactively safeguarding inte
 
 
 # Artefact 4: Workshop Personal Reflection
+<img width="1035" height="1380" alt="image" src="https://github.com/user-attachments/assets/95fdf623-3b8a-4fce-95a0-25af06b52435" />
 
 ## Workshop Details
 
