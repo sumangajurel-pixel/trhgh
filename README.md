@@ -11,7 +11,7 @@ Summary of the Artefact
 
 The first artefact is based on the Week 7 workshop material about Intellectual Property (IP). IP protects different types of creations and can include patents, trademarks, designs, copyright and trade secrets. The workshop explained that giving creators rights can encourage creativity and innovation, but society also benefits when inventions and creative works eventually become available to the public. Copyright in Australia is automatic and protects the way an original work is expressed rather than the information itself.
 
-# Justification on Why I Chose the Artefact
+ Justification on Why I Chose the Artefact
 
 I chose this artefact because Intellectual Property is relevant to ICT students and future technology work. Before the workshop, I mainly thought of copyright as protecting music and videos. I now understand that it can also protect databases, computer programs, photographs and other original works. This helped me see why ICT professionals need to understand IP when creating, sharing or using digital content.
 
