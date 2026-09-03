@@ -2,6 +2,7 @@
 
 ## E-Portfolio 3 – Intellectual Property
 
+<img width="1871" height="957" alt="{03587C6C-3A77-47C7-8CA8-774E57FA17B1}" src="https://github.com/user-attachments/assets/6e573b7c-e33f-420b-85bd-d4a820e95a0c" />
 
 
 # Artefact 1: Understanding Intellectual Property
