@@ -6,7 +6,7 @@
 
 # Artefact 1: Understanding Intellectual Property
 
-## Summary of the Artefact
+Summary of the Artefact
 
 The first artefact is based on the Week 7 workshop material about Intellectual Property (IP). IP protects different types of creations and can include patents, trademarks, designs, copyright and trade secrets. The workshop explained that giving creators rights can encourage creativity and innovation, but society also benefits when inventions and creative works eventually become available to the public. Copyright in Australia is automatic and protects the way an original work is expressed rather than the information itself.
 
